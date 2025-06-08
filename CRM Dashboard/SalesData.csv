@@ -1,0 +1,251 @@
+Sales ID,Customer ID,Customer Name,Product/Service,Sales Amount,Sales Rep,Sales Date
+S1,C99,"Rice, Turner and Cordova",Consulting,1525,Agent 7,2024-09-03
+S2,C23,"Fritz, Smith and York",Consulting,1505,Agent 9,2024-02-26
+S3,C62,Kennedy-Garcia,Cloud Hosting,1146,Agent 3,2024-11-16
+S4,C89,"Smith, Anderson and Mendez",Consulting,6862,Agent 1,2024-09-22
+S5,C177,"Jackson, Barron and Phillips",Consulting,2655,Agent 8,2024-11-15
+S6,C49,Sanchez-Reynolds,Cloud Hosting,9554,Agent 8,2024-06-03
+S7,C8,"Wilson, Jennings and Larson",Cloud Hosting,12898,Agent 9,2024-10-24
+S8,C151,"Wallace, Wilkerson and Brown",Consulting,3250,Agent 3,2024-09-03
+S9,C92,Thomas-Dillon,Consulting,14652,Agent 10,2024-11-26
+S10,C127,Weaver and Sons,Software License,14642,Agent 10,2024-11-08
+S11,C34,Anderson-Rosales,Support Package,5437,Agent 4,2024-05-24
+S12,C86,Flynn Ltd,Support Package,2435,Agent 2,2024-03-12
+S13,C171,Espinoza-Brown,Software License,5230,Agent 2,2025-01-22
+S14,C145,Jones-Sutton,Consulting,12708,Agent 6,2024-10-05
+S15,C135,Davis-Hall,Support Package,8106,Agent 5,2024-11-09
+S16,C17,Ramirez LLC,Cloud Hosting,13428,Agent 7,2024-09-23
+S17,C101,"Guzman, Lawson and Medina",Consulting,13555,Agent 9,2024-08-14
+S18,C10,Rivera and Sons,Support Package,2948,Agent 8,2024-07-10
+S19,C16,Walters and Sons,Support Package,8755,Agent 5,2024-10-05
+S20,C14,Andrade and Sons,Software License,2802,Agent 4,2024-03-20
+S21,C153,"Sullivan, Long and Fisher",Software License,11160,Agent 5,2024-07-11
+S22,C66,Lee Inc,Software License,4192,Agent 5,2025-01-25
+S23,C19,"Tucker, Salas and Khan",Support Package,11059,Agent 5,2025-01-17
+S24,C154,Miller and Sons,Cloud Hosting,5341,Agent 7,2024-12-05
+S25,C93,Malone LLC,Cloud Hosting,2650,Agent 1,2024-05-22
+S26,C134,Powers LLC,Consulting,8502,Agent 8,2024-09-20
+S27,C17,Green-Davis,Cloud Hosting,11174,Agent 4,2024-10-26
+S28,C164,Benson Inc,Consulting,7361,Agent 5,2024-08-19
+S29,C1,"Charles, Ashley and Martin",Consulting,8775,Agent 5,2024-07-30
+S30,C137,Davis-Johnson,Consulting,10091,Agent 5,2024-09-27
+S31,C174,Burns-Hanson,Consulting,14112,Agent 5,2024-11-17
+S32,C90,Simmons Ltd,Cloud Hosting,7147,Agent 3,2024-03-22
+S33,C151,Fuller-Mccoy,Support Package,13413,Agent 6,2024-08-17
+S34,C113,Mcmahon PLC,Software License,2795,Agent 2,2024-11-10
+S35,C89,"Moore, Valentine and Jones",Consulting,12010,Agent 2,2025-02-13
+S36,C197,Mack-Smith,Support Package,12455,Agent 1,2025-02-02
+S37,C72,Castro LLC,Software License,14818,Agent 6,2024-08-06
+S38,C144,"Parsons, Newman and Hughes",Software License,13245,Agent 2,2024-11-29
+S39,C193,"Reeves, Hughes and Werner",Software License,5067,Agent 10,2024-05-14
+S40,C37,Barker-Le,Consulting,1386,Agent 2,2025-02-14
+S41,C53,Cooke LLC,Consulting,3978,Agent 1,2024-05-25
+S42,C37,Marquez LLC,Cloud Hosting,10983,Agent 5,2024-11-18
+S43,C29,Ellis PLC,Cloud Hosting,6036,Agent 3,2024-06-10
+S44,C74,"Wong, Edwards and Williams",Software License,8304,Agent 6,2025-01-16
+S45,C173,Smith Group,Consulting,5878,Agent 3,2024-10-20
+S46,C74,White Group,Support Package,5437,Agent 4,2024-08-24
+S47,C132,"Pearson, Gardner and Hernandez",Software License,11749,Agent 7,2024-08-30
+S48,C66,Cook-Gardner,Support Package,5540,Agent 1,2024-10-01
+S49,C168,"Ford, Freeman and Green",Support Package,2546,Agent 4,2024-07-26
+S50,C31,Carter-Brooks,Software License,6167,Agent 9,2024-04-26
+S51,C160,Torres-Solis,Cloud Hosting,1909,Agent 4,2024-05-17
+S52,C154,Howell Group,Cloud Hosting,3867,Agent 4,2024-03-03
+S53,C194,Manning-Owen,Cloud Hosting,6497,Agent 9,2024-03-21
+S54,C195,Escobar Group,Support Package,8263,Agent 10,2025-02-01
+S55,C77,Thompson LLC,Cloud Hosting,9503,Agent 5,2024-06-17
+S56,C5,Kent Ltd,Consulting,11222,Agent 6,2024-11-17
+S57,C26,Castillo-Stevens,Consulting,13124,Agent 7,2024-11-05
+S58,C123,"Elliott, Jones and Dudley",Software License,14812,Agent 1,2024-06-29
+S59,C165,"Bryant, Bennett and Clarke",Consulting,10788,Agent 1,2024-11-28
+S60,C65,Craig Inc,Consulting,12995,Agent 9,2024-11-03
+S61,C149,Taylor-Kennedy,Consulting,1595,Agent 2,2025-01-13
+S62,C110,Daniels PLC,Software License,5563,Agent 4,2024-03-10
+S63,C48,"Lee, Lewis and Weaver",Consulting,11183,Agent 6,2024-06-10
+S64,C142,Wolfe Inc,Consulting,11944,Agent 9,2024-05-04
+S65,C10,Keller Inc,Software License,1600,Agent 7,2024-05-25
+S66,C10,"Cline, Lowery and Fernandez",Support Package,5013,Agent 8,2024-02-26
+S67,C61,"Sanchez, Jones and Li",Cloud Hosting,11985,Agent 3,2024-09-23
+S68,C3,"Carter, Powell and Frazier",Cloud Hosting,5464,Agent 9,2024-04-19
+S69,C4,Sutton Ltd,Software License,7006,Agent 8,2025-01-13
+S70,C66,Williams-Owen,Support Package,13067,Agent 7,2024-08-13
+S71,C5,Yu Ltd,Cloud Hosting,3612,Agent 2,2024-06-21
+S72,C129,Thomas-Ritter,Consulting,14945,Agent 9,2025-02-13
+S73,C115,Daniels Group,Support Package,8216,Agent 1,2024-02-25
+S74,C184,"Dixon, Diaz and Mcgee",Consulting,9647,Agent 5,2024-05-04
+S75,C150,"Dixon, Miller and Ward",Cloud Hosting,2246,Agent 2,2024-09-15
+S76,C10,"Carlson, Anderson and Edwards",Support Package,14202,Agent 8,2025-02-02
+S77,C134,Harris LLC,Support Package,6698,Agent 10,2024-02-23
+S78,C128,Rangel LLC,Software License,8617,Agent 4,2024-04-09
+S79,C181,Williams-Nguyen,Consulting,7173,Agent 8,2024-08-12
+S80,C103,Tran-Henry,Software License,11800,Agent 1,2024-02-26
+S81,C169,Soto Ltd,Support Package,9053,Agent 10,2024-11-08
+S82,C15,"Aguilar, Rangel and Lowe",Support Package,5279,Agent 7,2024-03-03
+S83,C36,Booker-Simmons,Software License,11424,Agent 3,2024-09-18
+S84,C131,Kennedy-Andrews,Support Package,12127,Agent 2,2024-12-28
+S85,C104,"Mcmahon, Harris and Morse",Consulting,12524,Agent 6,2024-09-11
+S86,C142,"Yoder, Raymond and Villanueva",Software License,6488,Agent 3,2024-03-27
+S87,C46,"Thomas, Romero and Williams",Software License,3887,Agent 2,2024-07-05
+S88,C153,"Edwards, Holloway and Woodard",Support Package,2560,Agent 5,2024-11-02
+S89,C108,Smith Group,Cloud Hosting,14164,Agent 8,2024-06-13
+S90,C42,Hoover Inc,Support Package,13789,Agent 3,2024-03-23
+S91,C47,Gonzalez-Clarke,Software License,3901,Agent 3,2024-09-03
+S92,C111,Blackwell-Gonzalez,Consulting,13839,Agent 4,2025-01-21
+S93,C15,Wilson-Fuller,Support Package,9354,Agent 4,2024-05-25
+S94,C169,"Steele, Johnson and Wilson",Cloud Hosting,8079,Agent 5,2024-11-23
+S95,C2,Mendoza-Simmons,Consulting,14357,Agent 5,2024-03-19
+S96,C73,Mendez-Cox,Cloud Hosting,8701,Agent 4,2024-11-12
+S97,C187,Hart-Miller,Cloud Hosting,12604,Agent 7,2024-06-21
+S98,C38,Rose PLC,Support Package,6933,Agent 10,2024-09-19
+S99,C183,Rice-Doyle,Cloud Hosting,8815,Agent 10,2024-05-31
+S100,C63,Murphy-Burnett,Software License,2463,Agent 1,2024-04-05
+S101,C185,"Davis, Harvey and Dickerson",Software License,5153,Agent 8,2024-12-24
+S102,C138,Davis-Johnson,Consulting,4111,Agent 6,2024-07-01
+S103,C195,"Carr, Liu and Graham",Consulting,6170,Agent 4,2024-05-14
+S104,C105,"Schaefer, Ferrell and Zimmerman",Software License,5003,Agent 9,2024-06-06
+S105,C147,Manning Inc,Consulting,4567,Agent 5,2024-06-06
+S106,C18,Bell Inc,Software License,1802,Agent 3,2025-01-09
+S107,C130,Hernandez Ltd,Support Package,12493,Agent 5,2024-10-30
+S108,C10,Cooper-Garcia,Support Package,5458,Agent 1,2025-02-08
+S109,C9,Dixon-Austin,Software License,3361,Agent 4,2024-11-04
+S110,C5,Stewart Inc,Consulting,10582,Agent 8,2024-09-27
+S111,C54,Brown-Romero,Consulting,5128,Agent 5,2024-12-05
+S112,C148,"Simpson, Anderson and Horton",Consulting,10773,Agent 3,2024-09-17
+S113,C134,Daniels-Acosta,Support Package,10052,Agent 1,2024-07-28
+S114,C193,"Brown, Moore and Wilson",Consulting,1113,Agent 4,2024-05-29
+S115,C153,Thomas LLC,Software License,14088,Agent 7,2024-08-15
+S116,C16,Case LLC,Consulting,4653,Agent 3,2024-02-20
+S117,C138,Snyder-Miller,Support Package,1835,Agent 9,2024-09-30
+S118,C39,Griffin and Sons,Consulting,1217,Agent 5,2025-02-01
+S119,C122,Wilson-Davis,Cloud Hosting,3058,Agent 3,2024-12-31
+S120,C121,"Christensen, Phillips and Ayala",Support Package,12656,Agent 5,2025-01-21
+S121,C197,Daniel-Mayo,Software License,4557,Agent 9,2025-01-30
+S122,C196,"Garcia, Gonzalez and Jackson",Consulting,3562,Agent 4,2024-12-23
+S123,C33,Brown-Mendoza,Cloud Hosting,14328,Agent 5,2024-08-04
+S124,C182,"Campbell, Murray and Jackson",Support Package,10776,Agent 4,2025-01-03
+S125,C75,"Sims, Moore and Carlson",Cloud Hosting,6417,Agent 1,2024-04-10
+S126,C42,Pierce-Avery,Cloud Hosting,13624,Agent 4,2024-10-13
+S127,C163,Chavez-Phillips,Consulting,8117,Agent 4,2024-03-14
+S128,C109,"Allen, Ortiz and Brown",Cloud Hosting,8037,Agent 5,2024-06-24
+S129,C13,Dawson-Washington,Cloud Hosting,4320,Agent 3,2024-02-19
+S130,C63,Hodges Ltd,Consulting,2867,Agent 5,2024-07-08
+S131,C159,"Reilly, Larson and Johnson",Consulting,1980,Agent 9,2024-04-15
+S132,C4,"Taylor, Morgan and Cameron",Cloud Hosting,10561,Agent 6,2024-12-22
+S133,C124,"Reyes, Prince and Taylor",Consulting,2330,Agent 6,2024-04-09
+S134,C44,Graves Ltd,Cloud Hosting,13061,Agent 10,2024-06-24
+S135,C142,Williams-Walters,Cloud Hosting,6442,Agent 9,2024-04-04
+S136,C125,Wilson Group,Cloud Hosting,5301,Agent 3,2024-08-13
+S137,C175,Walker and Sons,Support Package,1810,Agent 5,2025-01-02
+S138,C4,Christian PLC,Cloud Hosting,1086,Agent 2,2024-03-09
+S139,C138,Gonzales and Sons,Support Package,10865,Agent 2,2024-12-13
+S140,C136,Perez Ltd,Cloud Hosting,5476,Agent 3,2024-10-29
+S141,C82,Ruiz Inc,Software License,8397,Agent 4,2024-06-30
+S142,C6,Thompson-Rodriguez,Support Package,10940,Agent 8,2024-04-28
+S143,C77,Hill Group,Support Package,11203,Agent 9,2025-01-20
+S144,C92,"Bennett, Shaffer and Schneider",Support Package,10788,Agent 3,2024-05-04
+S145,C165,Clark Group,Cloud Hosting,13354,Agent 4,2024-06-28
+S146,C164,"Lynch, Hall and Nguyen",Software License,12904,Agent 9,2024-04-20
+S147,C137,Acosta PLC,Software License,10946,Agent 6,2024-05-27
+S148,C120,Salinas-Brown,Cloud Hosting,7501,Agent 9,2024-06-10
+S149,C24,Romero-Webb,Support Package,10158,Agent 9,2024-10-13
+S150,C91,Smith LLC,Software License,11885,Agent 3,2024-12-30
+S151,C26,"Hawkins, Hernandez and Johnston",Cloud Hosting,13652,Agent 9,2024-03-11
+S152,C182,Mendoza LLC,Software License,1271,Agent 8,2024-08-03
+S153,C101,Molina Inc,Consulting,4496,Agent 7,2024-09-09
+S154,C179,Davis and Sons,Software License,2342,Agent 2,2024-02-25
+S155,C141,Cole Ltd,Consulting,8662,Agent 2,2025-01-08
+S156,C12,Stevens Group,Cloud Hosting,5764,Agent 10,2024-03-09
+S157,C183,Morgan PLC,Consulting,5298,Agent 1,2025-01-12
+S158,C68,Richards-Miller,Consulting,5922,Agent 7,2024-07-28
+S159,C143,Taylor-Vance,Consulting,11724,Agent 10,2024-12-11
+S160,C82,Bird Ltd,Consulting,4377,Agent 10,2024-09-02
+S161,C107,Burns Inc,Consulting,10518,Agent 2,2024-06-24
+S162,C114,Vargas PLC,Software License,8774,Agent 8,2024-04-09
+S163,C170,Mitchell Inc,Consulting,12076,Agent 9,2024-08-20
+S164,C189,Rojas LLC,Support Package,1257,Agent 4,2024-06-15
+S165,C55,Smith-James,Consulting,9949,Agent 4,2024-12-24
+S166,C49,Meyers Group,Software License,5903,Agent 9,2024-11-11
+S167,C142,Rosales-Mathews,Cloud Hosting,9398,Agent 4,2024-06-17
+S168,C138,Lee Ltd,Support Package,2436,Agent 3,2024-08-02
+S169,C36,Webster and Sons,Software License,4990,Agent 8,2024-04-25
+S170,C146,"Lawrence, Perez and Gonzalez",Cloud Hosting,14274,Agent 6,2024-11-15
+S171,C101,"White, Wade and Marsh",Consulting,11601,Agent 8,2024-03-11
+S172,C173,"Wolfe, Chambers and Murillo",Software License,14971,Agent 7,2024-08-22
+S173,C126,Rodriguez Group,Software License,7166,Agent 4,2024-10-30
+S174,C107,"Garcia, Payne and Gonzalez",Support Package,3572,Agent 8,2024-08-31
+S175,C3,Ferguson Group,Cloud Hosting,12322,Agent 4,2024-12-17
+S176,C158,Aguilar Group,Consulting,14272,Agent 5,2024-03-14
+S177,C100,Burns Inc,Cloud Hosting,3624,Agent 3,2024-06-10
+S178,C200,Snyder PLC,Support Package,12364,Agent 3,2024-12-09
+S179,C92,Frost LLC,Cloud Hosting,3137,Agent 6,2024-03-23
+S180,C116,Campbell-York,Consulting,7883,Agent 1,2024-09-11
+S181,C195,"Hanna, Romero and Sanchez",Software License,13877,Agent 1,2025-02-06
+S182,C147,Wilson-Wolfe,Software License,9159,Agent 5,2024-07-25
+S183,C73,Rivera-Wells,Cloud Hosting,4925,Agent 4,2024-09-27
+S184,C21,Chen Ltd,Consulting,12694,Agent 1,2024-03-07
+S185,C92,Cruz-Williams,Support Package,10067,Agent 7,2024-05-14
+S186,C147,Jackson-Henry,Software License,3938,Agent 4,2024-05-07
+S187,C170,"Chandler, Wagner and Cannon",Consulting,11416,Agent 9,2025-01-08
+S188,C170,"Parrish, Spencer and Lyons",Support Package,4394,Agent 7,2024-07-08
+S189,C73,Wheeler-Thompson,Software License,6105,Agent 8,2025-01-27
+S190,C45,Garcia Group,Cloud Hosting,14000,Agent 9,2024-06-13
+S191,C108,"Santana, Mcneil and Ross",Consulting,13174,Agent 4,2025-01-10
+S192,C113,Miller-Patterson,Consulting,1967,Agent 1,2024-04-24
+S193,C88,Sanchez-Freeman,Cloud Hosting,14990,Agent 3,2024-08-13
+S194,C155,Tanner Inc,Consulting,12771,Agent 2,2024-09-01
+S195,C191,Wells Inc,Support Package,1188,Agent 9,2024-11-30
+S196,C172,Cox LLC,Cloud Hosting,6725,Agent 3,2024-03-26
+S197,C91,Long PLC,Cloud Hosting,9581,Agent 2,2024-07-20
+S198,C59,Thompson Ltd,Consulting,1061,Agent 10,2024-03-25
+S199,C7,Campbell-Perry,Software License,1966,Agent 9,2024-04-13
+S200,C44,Thornton-Luna,Cloud Hosting,3068,Agent 2,2024-08-12
+S201,C199,Livingston LLC,Consulting,4305,Agent 3,2024-10-28
+S202,C127,Robinson Inc,Software License,13084,Agent 5,2024-05-14
+S203,C4,Gonzalez PLC,Support Package,10082,Agent 4,2024-10-18
+S204,C165,Price Ltd,Software License,12867,Agent 2,2024-07-16
+S205,C75,"Hall, Branch and Riggs",Software License,8456,Agent 5,2024-06-20
+S206,C15,"Delgado, Madden and Miller",Consulting,8489,Agent 4,2024-06-17
+S207,C93,Castaneda-Chavez,Software License,14383,Agent 7,2024-12-10
+S208,C156,Reid LLC,Consulting,1092,Agent 5,2024-06-10
+S209,C181,Krueger-Lang,Consulting,9907,Agent 3,2024-11-30
+S210,C106,"Russell, Cole and Jackson",Cloud Hosting,5513,Agent 9,2024-10-04
+S211,C146,Clark and Sons,Consulting,13107,Agent 8,2024-04-11
+S212,C180,Logan-Thomas,Consulting,9701,Agent 7,2024-06-03
+S213,C36,"Williams, Chaney and Maldonado",Consulting,6623,Agent 2,2024-07-12
+S214,C164,Pena-Wilson,Support Package,5783,Agent 8,2024-08-08
+S215,C188,French-Brown,Software License,2002,Agent 2,2024-03-14
+S216,C98,Lang Ltd,Support Package,13261,Agent 3,2024-04-09
+S217,C27,Clark Inc,Consulting,8482,Agent 3,2024-03-03
+S218,C44,Spears and Sons,Consulting,12364,Agent 3,2025-02-04
+S219,C83,Leonard-Carter,Cloud Hosting,8456,Agent 7,2024-06-04
+S220,C7,Nolan LLC,Consulting,6772,Agent 5,2024-05-13
+S221,C110,Singh Group,Cloud Hosting,8898,Agent 2,2024-11-13
+S222,C59,Johnson-Andrade,Cloud Hosting,7559,Agent 1,2024-09-27
+S223,C43,"Harris, Lopez and Murphy",Cloud Hosting,3777,Agent 7,2024-10-16
+S224,C122,Howard Inc,Support Package,14798,Agent 9,2025-02-08
+S225,C36,Fowler-Fisher,Software License,7278,Agent 9,2024-06-16
+S226,C63,"Owen, Hunt and Jackson",Cloud Hosting,5889,Agent 9,2025-01-18
+S227,C33,Williams LLC,Consulting,13403,Agent 1,2024-09-12
+S228,C59,Alvarez Inc,Software License,11223,Agent 1,2024-05-07
+S229,C41,Rodriguez-Mcguire,Support Package,3640,Agent 2,2024-04-06
+S230,C81,Fischer-Parrish,Consulting,9967,Agent 9,2024-08-07
+S231,C179,"Fowler, Lewis and Underwood",Cloud Hosting,5548,Agent 6,2024-10-27
+S232,C97,"Barnes, Stevens and Patel",Consulting,3750,Agent 1,2024-03-10
+S233,C119,Carlson Group,Support Package,9909,Agent 3,2024-08-10
+S234,C38,Mcfarland-Kim,Software License,12404,Agent 6,2024-08-27
+S235,C163,Thompson-Carson,Software License,6204,Agent 4,2024-10-25
+S236,C23,Mclean-Herrera,Consulting,6019,Agent 3,2024-07-11
+S237,C195,Williams-Cervantes,Consulting,13788,Agent 6,2024-03-13
+S238,C74,Thomas-Flores,Software License,13601,Agent 5,2025-02-01
+S239,C153,Graves-Moran,Support Package,4856,Agent 1,2024-12-23
+S240,C91,"Cole, Hill and Bond",Cloud Hosting,6106,Agent 8,2024-11-25
+S241,C2,Morris Group,Cloud Hosting,4331,Agent 7,2024-10-08
+S242,C65,King-Miller,Software License,6646,Agent 7,2024-12-23
+S243,C1,"Ayala, Parker and Schmidt",Consulting,6396,Agent 3,2024-07-15
+S244,C71,Wilson Group,Cloud Hosting,6662,Agent 9,2024-07-07
+S245,C193,"Quinn, Smith and Baker",Cloud Hosting,13417,Agent 10,2025-02-01
+S246,C133,"Perez, Smith and Cowan",Consulting,10427,Agent 10,2024-08-04
+S247,C104,Carroll-Oconnor,Software License,14249,Agent 5,2024-10-02
+S248,C61,Stewart-Taylor,Software License,13055,Agent 10,2024-11-08
+S249,C85,Hobbs-Romero,Cloud Hosting,14573,Agent 4,2024-04-10
+S250,C38,"Miller, Coleman and Ingram",Consulting,14527,Agent 5,2025-01-25

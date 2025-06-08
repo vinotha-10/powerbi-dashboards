@@ -1,0 +1,201 @@
+Ticket ID,Customer ID,Issue Type,Created Date,Status,Resolution Time (Days)
+T1,C54,Billing,2024-10-16,Open,10.0
+T2,C45,Technical,2025-01-12,Open,5.0
+T3,C2,Billing,2024-12-29,Open,4.0
+T4,C177,Service Request,2025-01-22,Open,
+T5,C37,Service Request,2024-10-13,Pending,
+T6,C24,Billing,2024-09-14,Closed,
+T7,C50,Account Access,2024-09-04,Pending,5.0
+T8,C8,Account Access,2024-10-11,Open,
+T9,C28,Account Access,2024-08-27,Open,6.0
+T10,C82,Service Request,2024-10-26,Pending,
+T11,C82,General Inquiry,2024-10-02,Closed,4.0
+T12,C192,Account Access,2025-02-13,Closed,
+T13,C93,Technical,2024-09-27,Closed,
+T14,C2,Account Access,2025-01-15,Open,2.0
+T15,C186,General Inquiry,2025-01-22,Open,
+T16,C145,Billing,2024-09-13,Closed,9.0
+T17,C62,Billing,2024-10-18,Closed,4.0
+T18,C37,Technical,2024-09-03,Pending,7.0
+T19,C138,Technical,2024-09-05,Open,5.0
+T20,C103,General Inquiry,2024-10-09,Pending,3.0
+T21,C43,General Inquiry,2025-01-23,Closed,9.0
+T22,C12,Account Access,2024-12-05,Closed,
+T23,C1,Service Request,2024-09-27,Closed,
+T24,C55,Service Request,2024-09-17,Pending,
+T25,C16,Service Request,2024-09-20,Closed,3.0
+T26,C155,Billing,2024-12-09,Pending,8.0
+T27,C22,Technical,2024-10-11,Open,7.0
+T28,C187,Service Request,2025-01-30,Open,
+T29,C22,General Inquiry,2024-12-15,Closed,
+T30,C35,General Inquiry,2024-12-08,Closed,
+T31,C168,Account Access,2024-12-07,Pending,
+T32,C79,Technical,2024-12-10,Open,
+T33,C41,Service Request,2025-01-19,Pending,
+T34,C90,Billing,2025-02-11,Pending,
+T35,C174,General Inquiry,2025-01-28,Closed,9.0
+T36,C172,Billing,2025-02-01,Open,7.0
+T37,C2,General Inquiry,2024-10-07,Open,
+T38,C81,Service Request,2024-08-30,Open,1.0
+T39,C70,Technical,2024-11-04,Pending,
+T40,C110,Service Request,2024-09-10,Open,
+T41,C159,Account Access,2024-10-02,Pending,3.0
+T42,C27,Account Access,2025-01-08,Closed,4.0
+T43,C16,Account Access,2024-10-11,Open,
+T44,C31,Technical,2024-12-11,Closed,
+T45,C64,Billing,2024-09-25,Open,5.0
+T46,C189,Account Access,2024-08-29,Closed,
+T47,C47,Billing,2025-01-24,Open,1.0
+T48,C95,General Inquiry,2025-01-30,Open,
+T49,C129,General Inquiry,2024-10-31,Closed,5.0
+T50,C5,General Inquiry,2025-01-08,Open,5.0
+T51,C19,Technical,2024-09-14,Open,
+T52,C182,Account Access,2025-01-29,Open,
+T53,C16,Billing,2025-01-15,Closed,5.0
+T54,C81,Billing,2024-12-18,Open,7.0
+T55,C44,Billing,2025-02-08,Open,2.0
+T56,C158,Service Request,2024-08-30,Closed,2.0
+T57,C48,Technical,2024-09-05,Open,
+T58,C26,Service Request,2025-01-11,Pending,
+T59,C175,Technical,2025-01-21,Pending,
+T60,C21,Technical,2024-10-16,Open,9.0
+T61,C51,Account Access,2024-11-19,Closed,7.0
+T62,C168,General Inquiry,2024-12-01,Pending,9.0
+T63,C16,Account Access,2025-02-05,Closed,3.0
+T64,C111,General Inquiry,2024-10-29,Open,3.0
+T65,C132,Technical,2024-11-15,Pending,
+T66,C163,Account Access,2024-12-21,Open,
+T67,C59,Service Request,2025-01-14,Closed,
+T68,C71,General Inquiry,2024-12-02,Open,9.0
+T69,C149,Account Access,2024-09-24,Pending,7.0
+T70,C153,General Inquiry,2024-09-11,Open,4.0
+T71,C31,General Inquiry,2024-11-24,Pending,
+T72,C72,General Inquiry,2024-09-21,Open,3.0
+T73,C102,Account Access,2024-09-25,Open,
+T74,C83,General Inquiry,2025-02-13,Closed,
+T75,C94,Billing,2025-01-27,Closed,6.0
+T76,C156,Service Request,2024-10-26,Pending,
+T77,C93,Billing,2024-11-29,Closed,
+T78,C193,Service Request,2024-09-27,Pending,1.0
+T79,C22,General Inquiry,2025-01-23,Closed,
+T80,C165,General Inquiry,2024-11-18,Pending,2.0
+T81,C27,Service Request,2024-10-23,Closed,6.0
+T82,C54,General Inquiry,2025-01-28,Open,3.0
+T83,C10,General Inquiry,2024-11-13,Closed,
+T84,C196,Billing,2024-10-01,Closed,
+T85,C165,Service Request,2024-12-08,Open,
+T86,C190,General Inquiry,2024-10-08,Open,
+T87,C36,Service Request,2024-12-07,Open,
+T88,C131,Account Access,2025-01-13,Closed,
+T89,C82,Technical,2024-12-24,Pending,1.0
+T90,C65,Account Access,2024-11-03,Pending,5.0
+T91,C110,Billing,2024-12-17,Open,9.0
+T92,C151,Technical,2024-11-23,Pending,
+T93,C168,Billing,2024-09-24,Open,7.0
+T94,C190,Technical,2024-12-08,Open,9.0
+T95,C145,General Inquiry,2024-09-29,Open,5.0
+T96,C86,Service Request,2024-11-22,Closed,
+T97,C81,Service Request,2024-10-01,Pending,3.0
+T98,C168,General Inquiry,2024-11-16,Closed,1.0
+T99,C39,Account Access,2024-11-19,Open,10.0
+T100,C73,General Inquiry,2024-11-12,Closed,
+T101,C157,General Inquiry,2024-11-23,Closed,3.0
+T102,C185,Account Access,2024-10-28,Pending,
+T103,C63,Service Request,2025-01-10,Open,
+T104,C149,General Inquiry,2024-10-15,Pending,
+T105,C119,Billing,2025-01-15,Pending,6.0
+T106,C197,Billing,2024-12-10,Pending,
+T107,C186,Billing,2024-10-08,Open,
+T108,C33,General Inquiry,2025-01-31,Pending,10.0
+T109,C181,Account Access,2024-10-20,Closed,4.0
+T110,C107,Account Access,2025-01-15,Open,
+T111,C92,Account Access,2024-09-23,Pending,4.0
+T112,C197,Billing,2024-12-26,Closed,8.0
+T113,C90,Technical,2025-02-12,Closed,
+T114,C24,Service Request,2025-01-03,Open,7.0
+T115,C172,Billing,2025-01-28,Closed,4.0
+T116,C183,Service Request,2024-12-26,Pending,
+T117,C60,Technical,2025-01-29,Closed,2.0
+T118,C63,Account Access,2024-10-31,Closed,3.0
+T119,C124,Service Request,2024-11-30,Open,
+T120,C187,Billing,2025-01-18,Open,
+T121,C64,Account Access,2024-10-11,Closed,
+T122,C29,Account Access,2024-12-10,Pending,
+T123,C57,Technical,2024-09-22,Open,
+T124,C173,Service Request,2024-12-27,Open,
+T125,C23,Billing,2024-09-05,Closed,
+T126,C185,General Inquiry,2025-01-28,Open,
+T127,C143,Account Access,2025-02-09,Pending,10.0
+T128,C154,Account Access,2024-08-30,Open,
+T129,C113,Technical,2024-10-31,Pending,5.0
+T130,C37,Technical,2024-09-29,Pending,3.0
+T131,C89,Account Access,2024-11-24,Pending,7.0
+T132,C192,Account Access,2025-01-08,Pending,6.0
+T133,C67,General Inquiry,2024-09-30,Closed,10.0
+T134,C11,Billing,2024-11-02,Pending,8.0
+T135,C11,General Inquiry,2025-01-21,Open,
+T136,C58,Service Request,2024-09-18,Closed,2.0
+T137,C155,Account Access,2024-11-29,Closed,5.0
+T138,C35,Billing,2025-01-15,Closed,
+T139,C148,General Inquiry,2024-11-16,Open,
+T140,C92,General Inquiry,2024-09-10,Closed,
+T141,C83,Account Access,2024-12-03,Pending,
+T142,C192,Technical,2024-09-30,Open,
+T143,C166,Technical,2024-11-07,Closed,1.0
+T144,C120,General Inquiry,2024-12-24,Pending,5.0
+T145,C11,Technical,2024-11-19,Open,
+T146,C165,Account Access,2025-01-09,Closed,
+T147,C116,General Inquiry,2025-01-30,Closed,
+T148,C198,Service Request,2024-12-27,Open,
+T149,C58,General Inquiry,2024-11-12,Pending,9.0
+T150,C1,Service Request,2024-08-27,Closed,
+T151,C59,Account Access,2024-09-25,Open,3.0
+T152,C92,Technical,2024-12-25,Open,
+T153,C66,Service Request,2024-11-21,Closed,
+T154,C183,Billing,2025-01-29,Pending,
+T155,C173,Technical,2024-09-02,Open,
+T156,C87,Service Request,2025-02-15,Pending,
+T157,C128,Billing,2024-10-08,Pending,
+T158,C164,General Inquiry,2025-01-18,Pending,
+T159,C112,Technical,2024-10-10,Closed,8.0
+T160,C5,Billing,2025-02-10,Closed,
+T161,C190,Account Access,2024-12-30,Open,3.0
+T162,C167,Service Request,2025-01-17,Closed,9.0
+T163,C168,Account Access,2024-09-02,Open,
+T164,C91,Technical,2024-12-10,Closed,8.0
+T165,C171,General Inquiry,2025-01-26,Pending,10.0
+T166,C143,General Inquiry,2024-09-26,Open,
+T167,C69,General Inquiry,2025-01-26,Open,
+T168,C105,Billing,2024-12-14,Pending,
+T169,C54,General Inquiry,2025-01-01,Closed,10.0
+T170,C81,Service Request,2024-10-02,Closed,
+T171,C199,Service Request,2024-12-09,Closed,3.0
+T172,C183,Billing,2024-09-10,Open,7.0
+T173,C175,Technical,2024-09-08,Open,
+T174,C44,Billing,2025-01-13,Closed,2.0
+T175,C105,Account Access,2024-10-03,Closed,1.0
+T176,C163,Technical,2024-11-11,Closed,
+T177,C112,General Inquiry,2024-10-12,Closed,8.0
+T178,C12,Billing,2024-10-11,Open,
+T179,C142,Billing,2025-02-05,Closed,
+T180,C93,General Inquiry,2025-02-08,Open,8.0
+T181,C55,Billing,2024-09-20,Pending,4.0
+T182,C110,Service Request,2024-08-25,Open,
+T183,C157,Technical,2024-11-21,Closed,
+T184,C180,Billing,2024-10-01,Pending,3.0
+T185,C1,General Inquiry,2025-01-13,Pending,
+T186,C149,Account Access,2024-10-25,Pending,5.0
+T187,C67,Technical,2024-09-18,Open,3.0
+T188,C100,Account Access,2025-01-27,Closed,
+T189,C175,Account Access,2024-10-31,Closed,2.0
+T190,C52,Technical,2025-01-09,Open,
+T191,C37,Technical,2025-01-25,Pending,5.0
+T192,C116,Account Access,2024-10-23,Open,7.0
+T193,C150,Technical,2024-11-09,Closed,
+T194,C85,Technical,2024-10-14,Closed,
+T195,C74,Service Request,2025-01-29,Closed,2.0
+T196,C193,Account Access,2024-10-04,Open,10.0
+T197,C127,Billing,2025-02-11,Pending,
+T198,C14,Technical,2024-09-06,Pending,
+T199,C2,Service Request,2024-10-21,Pending,10.0
+T200,C146,Billing,2024-09-24,Closed,

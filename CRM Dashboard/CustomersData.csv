@@ -1,0 +1,201 @@
+Customer ID,Customer Name,Industry,Region,Lifetime Value,Active Since,Retention Status
+C1,Gardner and Sons,IT,North,26868,2024-06-11,Churned
+C2,"Williams, Greene and White",Finance,North,38986,2023-06-13,Active
+C3,Fox Group,Finance,East,43914,2024-06-21,Pending
+C4,Taylor PLC,Healthcare,East,43700,2024-11-03,Pending
+C5,Benson Ltd,Finance,South,18655,2023-02-26,Churned
+C6,Patterson-Peters,Finance,East,5984,2024-06-12,Active
+C7,Combs PLC,Education,West,33168,2024-01-08,Churned
+C8,"Wilkinson, Johnson and Wade",Healthcare,North,15478,2024-01-09,Pending
+C9,Murphy-Smith,Retail,North,13588,2023-02-18,Pending
+C10,Hendrix and Sons,Education,North,15553,2023-06-10,Churned
+C11,"Thomas, Romero and Griffith",IT,South,19348,2023-05-19,Active
+C12,Salas-Washington,Healthcare,West,20997,2024-08-15,Churned
+C13,"Gallagher, Davis and Hobbs",Education,North,36640,2024-10-10,Pending
+C14,Anderson and Sons,Healthcare,West,16479,2024-01-14,Pending
+C15,"Friedman, Stephens and Hayes",Healthcare,South,27079,2024-12-23,Active
+C16,"Lewis, Love and Pearson",Healthcare,West,15193,2023-11-26,Churned
+C17,Ruiz LLC,Finance,South,27973,2025-01-07,Pending
+C18,Atkins Inc,Education,South,27029,2023-03-10,Pending
+C19,"Kim, Smith and Richardson",IT,West,38318,2024-09-13,Pending
+C20,"Holland, York and Williams",IT,East,37917,2024-10-27,Churned
+C21,Serrano-Smith,IT,West,6336,2024-01-28,Churned
+C22,Mitchell PLC,Healthcare,West,23989,2023-11-03,Pending
+C23,"Estrada, Fuller and Smith",Healthcare,East,28333,2024-01-21,Active
+C24,Hall-Duncan,Retail,West,25451,2025-01-09,Pending
+C25,Smith Ltd,Healthcare,South,44299,2023-06-22,Active
+C26,Harris LLC,Retail,East,40975,2023-04-23,Pending
+C27,"Nelson, Anderson and Thompson",Finance,East,49449,2023-09-04,Pending
+C28,Johnson Ltd,Education,West,27975,2024-01-21,Pending
+C29,Pham Ltd,IT,North,36108,2024-08-27,Active
+C30,"Chapman, Oconnell and Hernandez",Retail,North,18349,2023-10-31,Pending
+C31,Burnett Group,Healthcare,North,18592,2024-02-04,Churned
+C32,Green-Mckay,Retail,South,27684,2023-08-05,Pending
+C33,"Campbell, Rodriguez and Williams",Finance,West,8407,2023-09-25,Churned
+C34,Perez PLC,IT,West,39717,2023-10-13,Pending
+C35,Warner Ltd,Healthcare,North,9334,2024-01-06,Pending
+C36,Henry-Johnson,Education,East,26868,2024-05-09,Churned
+C37,Lambert LLC,IT,North,22673,2023-12-17,Pending
+C38,"Owens, Cook and Howard",Healthcare,East,39166,2024-05-23,Pending
+C39,Martinez LLC,Retail,South,45633,2024-09-24,Churned
+C40,"Shelton, Sanchez and Huang",Healthcare,North,40349,2023-06-27,Pending
+C41,"Ross, Weber and Perez",Healthcare,East,43127,2024-01-13,Active
+C42,Gill-Hawkins,Retail,East,14187,2025-01-11,Pending
+C43,Fernandez-Anderson,IT,West,37861,2023-10-15,Pending
+C44,Winters-Williams,Retail,West,17205,2024-08-15,Active
+C45,Aguirre Inc,Healthcare,East,33929,2023-06-07,Churned
+C46,Bowman-Clarke,Healthcare,South,45189,2024-11-04,Pending
+C47,Poole and Sons,Retail,East,20011,2023-04-29,Pending
+C48,Lewis Ltd,Education,South,5346,2023-12-22,Active
+C49,Underwood Ltd,Retail,East,17918,2023-06-23,Pending
+C50,"Vazquez, Green and Gamble",Healthcare,East,46847,2023-10-20,Churned
+C51,"Ware, Foster and Davis",Finance,South,14902,2023-08-18,Pending
+C52,"Lang, Avery and Cole",IT,South,36071,2023-09-25,Active
+C53,Smith-Rose,IT,North,23556,2023-05-03,Active
+C54,Henderson LLC,IT,East,11096,2024-06-05,Churned
+C55,"Ewing, Smith and Kemp",Healthcare,East,9834,2024-08-02,Pending
+C56,"Phillips, Vasquez and Barker",Retail,West,45174,2023-09-07,Pending
+C57,Bradford and Sons,Retail,East,16295,2024-04-03,Pending
+C58,Morrison LLC,Healthcare,West,6083,2024-11-16,Pending
+C59,Nelson LLC,IT,North,7118,2023-02-26,Active
+C60,Kennedy and Sons,Retail,East,23971,2023-09-13,Active
+C61,Ochoa and Sons,Education,North,13507,2023-08-29,Pending
+C62,Bryant Ltd,Finance,South,19020,2024-03-07,Churned
+C63,"Miller, Miller and Hart",Retail,West,38785,2023-12-13,Active
+C64,Lopez Inc,Finance,North,23249,2024-11-18,Pending
+C65,Mueller and Sons,IT,South,41221,2023-12-02,Churned
+C66,Delgado-Taylor,Finance,South,33488,2023-08-03,Pending
+C67,Lewis-Odonnell,Education,North,38232,2024-11-13,Active
+C68,Hogan LLC,Finance,North,33890,2024-05-24,Active
+C69,Farrell-Clay,Education,South,25479,2024-10-29,Pending
+C70,"Hartman, Woods and Martin",Healthcare,North,28752,2023-10-03,Churned
+C71,Gregory Group,Healthcare,West,42872,2023-11-05,Churned
+C72,"Bird, Diaz and Duncan",Finance,East,14604,2023-09-22,Active
+C73,Sexton-Johnson,Healthcare,South,27380,2024-01-07,Pending
+C74,Estrada LLC,Education,North,23399,2023-08-07,Churned
+C75,"Newton, Jones and Lee",Healthcare,South,34752,2023-07-10,Active
+C76,"Mclaughlin, Adams and Cruz",IT,East,13419,2023-06-19,Churned
+C77,Kelly-Lee,Finance,North,33272,2023-07-24,Pending
+C78,Dean and Sons,Healthcare,North,18596,2023-05-25,Pending
+C79,Nguyen-Montgomery,Finance,South,7241,2024-06-30,Pending
+C80,"Roberts, Miller and Guzman",IT,South,25943,2024-09-20,Active
+C81,"Burns, Perez and Wilson",Finance,East,12923,2024-03-07,Active
+C82,"Marshall, Rodriguez and Horn",Education,North,38129,2023-03-16,Churned
+C83,Williams PLC,IT,East,31567,2024-01-02,Pending
+C84,"Williamson, Norris and Dixon",Finance,West,26015,2024-08-20,Pending
+C85,"Garrett, Rosales and Lee",Healthcare,East,49214,2024-03-19,Active
+C86,James PLC,Finance,East,38697,2023-10-03,Churned
+C87,Whitehead Inc,IT,West,49649,2023-08-13,Pending
+C88,White-Wade,Retail,South,20795,2023-06-27,Active
+C89,"Norris, Vargas and Baker",Retail,North,27821,2024-11-30,Active
+C90,Hanson Ltd,Education,South,47521,2023-11-26,Pending
+C91,Clark LLC,Healthcare,North,20071,2023-09-11,Pending
+C92,Mccarthy LLC,Healthcare,East,44061,2024-08-08,Churned
+C93,Jacobs and Sons,Education,North,6387,2023-11-04,Pending
+C94,Mccall-Hayes,Education,South,34324,2024-10-13,Pending
+C95,Olsen-Smith,Retail,North,49862,2024-02-15,Pending
+C96,Hunter-Delgado,Healthcare,South,6820,2023-05-11,Active
+C97,Gomez-Pruitt,Finance,East,35152,2024-12-06,Pending
+C98,Thornton Inc,IT,West,21376,2023-12-17,Active
+C99,"Cooper, Mclaughlin and Moore",Healthcare,South,5368,2023-12-12,Active
+C100,Roman-George,IT,West,38655,2024-10-03,Churned
+C101,Rice-Lopez,Education,North,44701,2023-06-25,Churned
+C102,"Stafford, Clayton and Brown",Finance,North,11543,2024-06-08,Churned
+C103,Thompson LLC,Retail,North,41497,2023-04-06,Pending
+C104,"Foster, Conner and Knapp",Finance,South,29881,2023-12-02,Pending
+C105,Ramirez Ltd,Education,West,20217,2024-06-28,Churned
+C106,"Trujillo, Bell and Armstrong",Healthcare,North,37505,2024-10-22,Active
+C107,Green-Haas,Retail,West,7839,2023-05-08,Churned
+C108,"Lane, Lopez and Smith",Finance,East,17329,2024-07-21,Active
+C109,"Floyd, Rios and Reed",Retail,South,30939,2023-07-04,Churned
+C110,Duran Ltd,Finance,West,49370,2024-08-08,Active
+C111,"Taylor, Dunn and Johnson",Education,West,49884,2023-09-14,Active
+C112,Johnson-Carter,Healthcare,East,35880,2024-03-31,Churned
+C113,"Brown, Roach and Payne",Healthcare,East,24049,2024-02-11,Churned
+C114,"Robinson, Bowers and Phillips",Education,West,33775,2024-10-22,Active
+C115,"Dalton, Kelley and Schmidt",Healthcare,North,25563,2024-08-22,Active
+C116,"Torres, Hopkins and Moore",Healthcare,North,36096,2023-08-06,Active
+C117,"Leonard, Roach and Wright",Education,South,5549,2023-11-27,Churned
+C118,Hill-Lucas,Healthcare,East,26830,2023-11-15,Churned
+C119,"Nguyen, Roberts and Moore",Retail,North,11282,2024-02-15,Churned
+C120,"Williamson, Hughes and Morse",Healthcare,East,42710,2024-01-16,Pending
+C121,"Murphy, David and Scott",IT,West,5533,2024-09-07,Active
+C122,Hopkins and Sons,IT,South,31841,2024-12-07,Active
+C123,Fox-Carter,Finance,East,22765,2023-03-09,Pending
+C124,Olson-Rice,Finance,East,44263,2024-05-17,Churned
+C125,Brooks Ltd,Finance,South,21459,2024-12-29,Active
+C126,Hoover Inc,IT,North,9001,2024-06-07,Pending
+C127,"Anderson, Brown and Romero",Finance,West,12712,2023-11-01,Churned
+C128,Chaney LLC,IT,East,15244,2024-09-25,Pending
+C129,Yoder-Cox,Healthcare,West,31624,2023-10-16,Active
+C130,Clements Group,Healthcare,South,21754,2023-06-12,Pending
+C131,Rogers and Sons,Healthcare,East,26053,2023-12-03,Active
+C132,Morris-Turner,Retail,West,35448,2024-05-20,Pending
+C133,Crane Ltd,Education,North,24135,2024-10-20,Churned
+C134,"Salinas, Buchanan and Jackson",Finance,East,23129,2023-12-11,Pending
+C135,"Walsh, Knapp and James",IT,North,40944,2024-08-19,Pending
+C136,Bauer Inc,Finance,South,17781,2024-01-20,Active
+C137,Brown Inc,Retail,East,18958,2024-10-27,Churned
+C138,Nolan-Peterson,IT,North,21696,2023-03-12,Churned
+C139,Walker PLC,Education,West,37777,2024-02-06,Churned
+C140,"Garcia, Castillo and Martinez",Healthcare,North,43733,2024-01-30,Active
+C141,Cross LLC,Retail,North,31133,2024-02-11,Churned
+C142,"Williams, Dean and Davis",Finance,West,42430,2023-12-26,Pending
+C143,Lee Ltd,Finance,West,14591,2024-05-23,Active
+C144,Burgess-Pena,IT,North,26498,2023-12-19,Churned
+C145,Ford-Thomas,Healthcare,North,42247,2023-03-07,Pending
+C146,"Collins, Carter and Newman",Education,West,40108,2023-11-14,Churned
+C147,Lindsey-Knight,IT,East,49932,2024-10-29,Active
+C148,"Jones, Mccann and Roberson",IT,East,47603,2023-07-21,Churned
+C149,Mays-Wolf,Retail,East,43061,2024-12-04,Churned
+C150,Murray-Torres,Retail,South,24532,2023-08-24,Active
+C151,Sellers PLC,Finance,South,24151,2024-01-29,Churned
+C152,"Jackson, Fischer and Haney",Education,West,36607,2023-11-14,Active
+C153,"Smith, Rodriguez and Wilson",Education,West,10898,2024-12-15,Active
+C154,"Burch, Hunter and Brown",Education,East,11032,2024-06-05,Active
+C155,Carr Inc,IT,North,38913,2024-11-23,Active
+C156,"Cardenas, Olson and King",Retail,South,7055,2024-08-30,Pending
+C157,Martin-Davis,Healthcare,North,7626,2024-06-05,Churned
+C158,Ruiz-Johnson,Finance,South,10477,2024-06-07,Pending
+C159,Brown PLC,Finance,West,22551,2023-12-17,Active
+C160,Boyle PLC,Healthcare,North,25495,2024-06-07,Active
+C161,Kelley-Williams,Healthcare,East,15523,2023-11-23,Pending
+C162,Knox and Sons,IT,North,44805,2024-02-18,Active
+C163,Thomas-Martinez,Finance,North,25971,2023-03-11,Churned
+C164,Wilson Group,Education,East,48913,2023-12-14,Pending
+C165,Carter Inc,Healthcare,North,16366,2023-03-26,Churned
+C166,Pierce-Lopez,IT,West,7510,2023-07-18,Pending
+C167,Martin Inc,IT,South,35299,2024-10-17,Churned
+C168,Burke LLC,Healthcare,South,9552,2024-01-23,Active
+C169,"Williams, Allen and Wells",Finance,North,21431,2023-08-21,Active
+C170,Cooley-Parrish,Retail,East,39882,2024-02-15,Pending
+C171,"Blankenship, Miller and Archer",Education,North,38474,2023-10-15,Churned
+C172,Johnson and Sons,Education,West,31779,2023-09-17,Pending
+C173,Evans Inc,Finance,West,5013,2024-06-21,Churned
+C174,"Adams, Mcneil and Norris",Finance,North,18582,2023-05-08,Active
+C175,"Reyes, Santiago and Smith",Finance,North,28927,2024-08-05,Churned
+C176,Hanson-Cole,Healthcare,West,47965,2024-07-09,Pending
+C177,Hubbard-King,IT,South,26265,2024-12-05,Pending
+C178,"Walters, Gill and Stout",Education,North,24612,2024-07-03,Active
+C179,Zimmerman-Davis,Healthcare,East,23546,2023-02-27,Pending
+C180,Lester-Davies,Retail,West,40789,2025-01-11,Active
+C181,"Sanchez, Chapman and Smith",Healthcare,North,48421,2023-12-09,Pending
+C182,Guzman-Owen,IT,East,32940,2024-06-21,Churned
+C183,Beck-Cooper,Finance,East,25178,2023-08-02,Churned
+C184,Thomas-Cox,Retail,South,19984,2023-05-19,Pending
+C185,Clayton-Gonzales,Healthcare,East,46587,2024-07-13,Pending
+C186,"Sanford, Thomas and Freeman",Healthcare,West,39519,2023-08-08,Churned
+C187,"Mack, Stewart and Smith",IT,South,5752,2023-03-19,Pending
+C188,Leonard-Chang,Retail,East,38079,2023-09-04,Churned
+C189,"Cohen, Bell and Rodriguez",IT,North,27404,2024-03-22,Churned
+C190,Weber and Sons,Education,West,42119,2024-10-27,Active
+C191,Hernandez Ltd,IT,West,34628,2024-06-07,Active
+C192,Calderon PLC,IT,South,37352,2023-07-16,Active
+C193,"Diaz, Jordan and Curry",Education,East,6483,2023-08-17,Churned
+C194,"Lopez, Shaw and Daniel",Education,South,30131,2023-11-07,Pending
+C195,"Olson, Jensen and Lee",Education,North,38896,2024-10-27,Churned
+C196,Neal-Stanley,Education,North,19896,2024-02-24,Active
+C197,Cobb-James,Education,West,5996,2024-11-15,Active
+C198,Alvarado-Williams,Finance,West,46607,2024-09-25,Active
+C199,"Mcclure, Warren and Baker",IT,South,29795,2023-11-24,Active
+C200,Brown-Campbell,Retail,North,45334,2024-03-06,Pending
